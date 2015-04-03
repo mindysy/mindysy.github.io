@@ -1,27 +1,46 @@
 /* ==========================================================================
-	Primary Indigo
-	500 - #3f51b5
-	100 - #c5cae9
-	700 - #303f9f
-
-	Accent Pink
-	A200 - #ff4081
-	A100 - #ff80ab
-	A400 - #f50057 
-
-	dividers #dadada
+	Light Yellow 	- #fbe2b4
+	Pink		- #ff4c65
    ========================================================================== */
 
 /* General */
 body {
-	color: #212121;
-	font-family: 'Roboto', sans-serif;
-	font-size: 100%;
+	color: #ff4c65;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #ff4c65;
+	font-weight: normal;
+}
+
+h1 { font-size: 2.25em; /* 36px */ }
+h2 { font-size: 2em; /* 32px */ }
+h3 { font-size: 1.875em; /* 30px */ }
+h4 { font-size: 1.75em; /* 28px */ }
+h5 { font-size: 1.65em; /* 26px */ }
+h6 { font-size: 1.5em; /* 24px */ }
+
+a,
+a:hover,
+a: visited,
+a:focus {
+	color: #ff4c65;
+}
+
+p {
+	line-height: 20px;
 }
 
 .clearfix:before, .clearfix:after { content: " "; display: table; }
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
+
+/* Header */
+header {
+	background-color: #fbe2b4;
+}
 
 /* ==========================================================================
    Media Queries
