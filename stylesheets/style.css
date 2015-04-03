@@ -52,9 +52,14 @@ header h1 {
 	color: #ffffff;
 }
 
+header h6 {
+	color: #55b6b2;
+}
+
 .header-wrap {
 	max-width: 960px;
 	width: 100%;
+	padding: 120px 20px 70px;
 }
 
 /* ==========================================================================
