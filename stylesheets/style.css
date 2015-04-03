@@ -1,22 +1,22 @@
 /* ==========================================================================
-	Light Yellow 	- #fbe2b4
-	Pink		- #ff4c65
-	Yellow		- #ffc33c
-	
+	Maroon		- #591e23
+	Rose		- #d94e67
+	Cream		- #f2d8a7
+	Light Brown	- #a68572
+	Brown		- #73503c
 	Grey		- #7a7c77
-	Light Green	- #55b6b2
-	Light Purple	- #9e6d92
    ========================================================================== */
 
 /* General */
 body {
+	background-color: #f5f5f5;
 	color: #7a7c77;
 	font-family: 'Lato', sans-serif;
 	font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #9e6d92;
+	color: #d94e67;
 	font-weight: normal;
 	margin: 0 0 15px;
 }
@@ -45,7 +45,7 @@ p {
 
 /* Header */
 header {
-	background-color: #9e6d92;
+	background-color: #f2d8a7;
 }
 
 .header-wrap {
@@ -60,8 +60,13 @@ header {
 }
 
 .header-wrap .position {
-	color: #55b6b2;
+	color: #a68572;
 	font-size: 1.375em; /* 22px */
+}
+
+/* Footer */
+footer {
+	background-color: #f2d8a7;
 }
 
 /* ==========================================================================
