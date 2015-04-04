@@ -1,22 +1,24 @@
 /* ==========================================================================
-	Maroon		- #591e23
-	Rose		- #d94e67
-	Cream		- #f2d8a7
+	Blue		- #4a9ec0
+	Purple		- #994583
+	Cream		- #e3dad5
 	Light Brown	- #a68572
-	Brown		- #73503c
-	Grey		- #7a7c77
+	Brown		- #42323f
+	Orange		- #f17154
+	Grey		- #afb6be
    ========================================================================== */
 
 /* General */
 body {
-	background-color: #f5f5f5;
-	color: #73503c;
+	background-color: #e3dad5;
+	color: #42323f;
 	font-family: 'Arimo', sans-serif;
 	font-size: 16px;
+	font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #d94e67;
+	color: #994583;
 	font-family: 'Lobster', sans-serif;
 	font-weight: normal;
 	margin: 0 0 15px;
@@ -52,13 +54,13 @@ p {
 
 /* Header */
 header {
-	background-color: #f2d8a7;
+	background-color: #4a9ec0;
 }
 
 .header-wrap {
 	max-width: 960px;
 	width: 100%;
-	padding: 120px 15px 70px;
+	padding: 80px 15px 50px;
 }
 
 .header-wrap h1 {
@@ -78,7 +80,6 @@ section {
 
 /* Footer */
 footer {
-	background-color: #f2d8a7;
 }
 
 /* ==========================================================================
