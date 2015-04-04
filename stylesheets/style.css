@@ -78,8 +78,17 @@ section {
 	padding-top: 15px;
 }
 
+ul.social-media {
+	padding: 0;
+}
+
+.social-media li {
+	list-style: none;
+}
+
 /* Footer */
 footer {
+	text-align: center;
 }
 
 /* ==========================================================================
