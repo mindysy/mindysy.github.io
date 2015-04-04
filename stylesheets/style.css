@@ -88,6 +88,8 @@ ul.social-media {
 
 /* Footer */
 footer {
+	background-color: #e3dad5;
+	font-size: 0.875em; /*14px*/
 	text-align: center;
 }
 
