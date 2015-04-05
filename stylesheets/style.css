@@ -10,9 +10,9 @@
 
 /* General */
 body {
-	background-color: #f5f5f5;
+	background-color: #828282;
 	color: #42323f;
-	font-family: 'Arimo', sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 }
@@ -59,16 +59,18 @@ header {
 
 .header-wrap {
 	max-width: 960px;
-	width: 100%;
 	padding: 80px 15px 50px;
+	text-align: center;
+	width: 100%;
 }
 
 .header-wrap h1 {
 	font-size: 3.75em; /* 60px */
+	margin-bottom: 10px;
 }
 
 .header-wrap .position {
-	color: #e3dad5;
+	color: #f5f5f5;
 	font-size: 1.375em; /* 22px */
 }
 
@@ -83,6 +85,7 @@ ul.social-media {
 }
 
 .social-media li {
+	color: #994583;
 	list-style: none;
 }
 
