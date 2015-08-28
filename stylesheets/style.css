@@ -74,6 +74,13 @@ header {
 	font-size: 1.375em; /* 22px */
 }
 
+.header-profile {
+	border: 5px solid #f5f5f5;
+	-webkit-border-radius: 119px;
+	-moz-border-radius: 119px;
+	border-radius: 119px;
+}
+
 /* Content */
 section {
 	padding-bottom: 15px;
