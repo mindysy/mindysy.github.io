@@ -39,7 +39,8 @@ a:focus {
 }
 
 p {
-	line-height: 20px;
+	font-size: 1.125em; /* 18px */
+	line-height: 24px;
 }
 
 .divider {
@@ -88,7 +89,7 @@ header {
 
 /* Content */
 section {
-	padding-bottom: 15px;
+	padding-bottom: 30px;
 	padding-top: 15px;
 }
 
@@ -99,6 +100,8 @@ article {
 .bg-blue {
 	background-color: #4a9ec0; 
 	color: #FFF;
+	margin-bottom: 30px;
+	padding: 15px;
 }
 
 .bg-blue h2 {
@@ -121,9 +124,14 @@ article {
 	list-style: none;
 }
 
+.social-media a:hover {
+	color: #4a9ec0;
+}
+
 /* Footer */
 footer {
 	font-size: 0.875em; /*14px*/
+	padding-bottom: 15px;
 	text-align: center;
 }
 
