@@ -103,9 +103,13 @@ article {
 	text-align: center;
 }
 
+.social-media div {
+	font-size: 2em; /* 32px */
+}
+
 .social-media a {
 	color: #994583;
-	font-size: 1.15em; /* 18px */
+	font-size: 1em; /* 16px */
 	list-style: none;
 }
 
