@@ -89,19 +89,29 @@ header {
 
 /* Content */
 section {
-	padding-bottom: 30px;
-	padding-top: 15px;
+	padding-bottom: 45px;
+	padding-top: 45px;
 }
 
 article {
 	text-align: center;
 }
 
+.text-white {
+	color: #FFF;
+}
+
+.text-purple {
+	color: #994583;
+}
+
+.text-blue {
+	color: #4a9ec0;
+}
+
 .bg-blue {
 	background-color: #4a9ec0; 
 	color: #FFF;
-	margin-bottom: 30px;
-	padding: 15px;
 }
 
 .bg-blue h2 {
